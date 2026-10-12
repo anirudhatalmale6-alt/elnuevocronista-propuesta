@@ -1,0 +1,269 @@
+/* ==========================================================================
+   El Nuevo Cronista — propuesta de portada
+   La idea: que la web se parezca a SU diario de papel (volantas en rojo,
+   titulares condensados y rotundos, filetes finos entre secciones) en vez de
+   a la demo del tema.
+   Tipografias: Sofia Sans Condensed (titulares, volantas, menu)
+                Source Serif 4 (bajadas y textos: lectura de diario)
+                Anton (solo el logo)
+   ========================================================================== */
+
+:root{
+  --rojo:#E40204;
+  --rojo-osc:#B30010;
+  --tinta:#1A1A1C;
+  --tinta-2:#2B2B2F;
+  --papel:#FFFFFF;
+  --hueso:#F5F3EE;          /* fondo de modulos: edicion impresa, necrologicas */
+  --filete:#DCDAD4;
+  --gris:#5E6064;
+  --gris-cl:#8A8C90;
+
+  --ancho:1200px;
+  --gap:28px;
+  --cond:'Sofia Sans Condensed','Arial Narrow',sans-serif;
+  --serif:'Source Serif 4',Georgia,serif;
+}
+
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--papel);color:var(--tinta);font-family:var(--serif);
+  font-size:17px;line-height:1.55;-webkit-font-smoothing:antialiased}
+img{display:block;max-width:100%;height:auto}
+a{color:inherit;text-decoration:none}
+h1,h2,h3,h4{margin:0;font-family:var(--cond);font-weight:800;line-height:1.08;letter-spacing:-.005em}
+.wrap{width:min(var(--ancho),100% - 32px);margin-inline:auto}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+
+/* ----------------------------------------------------------- barra sup --- */
+.top{background:var(--tinta);color:#CFCFD2;font-family:var(--cond);font-size:14px;letter-spacing:.02em}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:36px}
+.top__fecha{}
+.top__ed{color:#fff;font-weight:700}
+.top__ed b{color:var(--rojo)}
+.top__soc{display:flex;gap:14px}
+.top__soc a{display:grid;place-items:center;width:26px;height:26px;border-radius:50%;
+  color:#CFCFD2;transition:color .2s,background .2s}
+.top__soc a:hover{color:#fff;background:var(--rojo)}
+.top__soc svg{width:15px;height:15px;fill:currentColor}
+
+/* -------------------------------------------------------------- cabecera --- */
+.masthead{padding:26px 0 18px;text-align:center;border-bottom:1px solid var(--filete)}
+.masthead__logo{display:inline-block;width:min(520px,86vw)}
+.masthead__logo svg{display:block;width:100%;height:auto}
+.masthead__lema{margin:12px 0 0;font-family:var(--cond);font-size:14px;font-weight:600;
+  text-transform:uppercase;letter-spacing:.24em;color:var(--gris)}
+
+/* ----------------------------------------------------------------- menu --- */
+.nav{position:sticky;top:0;z-index:40;background:var(--papel);
+  border-bottom:3px double var(--tinta)}
+.nav .wrap{display:flex;align-items:center;gap:6px;min-height:50px}
+.nav__links{display:flex;flex-wrap:wrap;gap:2px 0;flex:1;justify-content:center}
+.nav__links a{font-family:var(--cond);font-size:16px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.04em;padding:13px 11px;position:relative}
+.nav__links a::after{content:"";position:absolute;left:11px;right:11px;bottom:6px;height:3px;
+  background:var(--rojo);transform:scaleX(0);transition:transform .2s}
+.nav__links a:hover::after,.nav__links a[aria-current]::after{transform:scaleX(1)}
+.nav__links a.nuevo{color:var(--rojo)}
+.nav__buscar{display:grid;place-items:center;width:40px;height:40px;border:0;background:none;
+  color:var(--tinta);cursor:pointer;border-radius:50%}
+.nav__buscar:hover{background:var(--hueso)}
+.nav__buscar svg{width:20px;height:20px}
+.nav__burger{display:none}
+.nav__logo-mini{display:none}
+
+/* -------------------------------------------------------- ultimo momento --- */
+.ticker{border-bottom:1px solid var(--filete);background:var(--papel)}
+.ticker .wrap{display:flex;align-items:center;gap:18px;min-height:46px;overflow:hidden}
+.ticker__tag{flex:none;background:var(--rojo);color:#fff;font-family:var(--cond);font-weight:800;
+  font-size:13px;text-transform:uppercase;letter-spacing:.1em;padding:5px 10px}
+.ticker__items{display:flex;gap:28px;min-width:0;overflow:hidden;font-family:var(--cond);font-size:17px;font-weight:600}
+.ticker__items a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ticker__items a:hover{color:var(--rojo)}
+.ticker__items a+a::before{content:"•";color:var(--rojo);margin-right:28px}
+
+/* ---------------------------------------------------------------- avisos --- */
+.aviso{margin:26px auto;text-align:center}
+.aviso__rot{display:block;margin:0 0 5px;font-family:var(--cond);font-size:11px;font-weight:600;
+  text-transform:uppercase;letter-spacing:.18em;color:var(--gris-cl)}
+.aviso img{margin-inline:auto}
+/* a su tamano real: agrandar la pieza del anunciante la pixela */
+.aviso--h img{width:auto;max-width:min(100%,970px)}
+.aviso--lat img{width:100%}
+.aviso--lat{margin:0 0 22px}
+
+/* ------------------------------------------------------------ elementos --- */
+.volanta{display:block;margin:0 0 6px;font-family:var(--cond);font-size:13.5px;font-weight:800;
+  text-transform:uppercase;letter-spacing:.09em;color:var(--rojo)}
+.meta{margin:8px 0 0;font-family:var(--cond);font-size:14px;color:var(--gris-cl);letter-spacing:.02em}
+.bajada{margin:10px 0 0;font-size:16.5px;line-height:1.5;color:#3A3B3F}
+.nota{min-width:0}
+.nota__img{position:relative;overflow:hidden;background:var(--hueso);align-self:start}
+.nota__img img{width:100%;aspect-ratio:16/10;object-fit:cover;transition:transform .5s ease}
+.nota:hover .nota__img img{transform:scale(1.035)}
+.nota h3 a:hover,.nota h2 a:hover{color:var(--rojo-osc)}
+
+/* encabezado de seccion, como en el papel: barra roja + filete fino */
+.sec{margin:38px 0 0}
+.sec__head{display:flex;align-items:baseline;gap:14px;margin:0 0 18px;padding-top:12px;
+  border-top:4px solid var(--tinta)}
+.sec__head h2{font-size:26px;text-transform:uppercase;letter-spacing:.02em}
+.sec__head h2::before{content:"";display:inline-block;width:12px;height:12px;background:var(--rojo);
+  margin-right:9px;vertical-align:2px}
+.sec__mas{margin-left:auto;font-family:var(--cond);font-size:14px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.06em;color:var(--rojo)}
+.sec__mas:hover{text-decoration:underline}
+
+/* --------------------------------------------------------------- apertura --- */
+.apertura{display:grid;grid-template-columns:minmax(0,1.85fr) minmax(0,1fr);gap:var(--gap);
+  padding:26px 0 30px;border-bottom:1px solid var(--filete)}
+.lead h2{font-size:clamp(30px,3.7vw,46px);line-height:1.04;margin-top:14px}
+.lead .bajada{font-size:19px}
+.lead .nota__img img{aspect-ratio:16/9}
+.apertura__col{display:flex;flex-direction:column;gap:20px}
+.apertura__col .nota{padding-bottom:20px;border-bottom:1px solid var(--filete)}
+.apertura__col .nota:last-child{border-bottom:0;padding-bottom:0}
+.apertura__col h3{font-size:22px;margin-top:10px}
+.apertura__col .nota--fila{display:grid;grid-template-columns:132px minmax(0,1fr);gap:14px}
+.apertura__col .nota--fila .nota__img img{aspect-ratio:4/3}
+.apertura__col .nota--fila h3{font-size:18.5px;margin-top:0}
+
+/* ------------------------------------------------------- cuerpo + lateral --- */
+.cuerpo{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:44px;align-items:start}
+.lateral{position:relative}
+
+/* grilla: 1 grande + lista */
+.g-1l{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:var(--gap)}
+.g-1l .nota--gr h3{font-size:27px;margin-top:12px}
+.lista{display:flex;flex-direction:column}
+.lista .nota{display:grid;grid-template-columns:120px minmax(0,1fr);gap:14px;padding:14px 0;
+  border-bottom:1px solid var(--filete)}
+.lista .nota:first-child{padding-top:0}
+.lista .nota:last-child{border-bottom:0}
+.lista .nota__img img{aspect-ratio:4/3}
+.lista h3{font-size:18.5px;line-height:1.15}
+
+/* grilla de cuatro */
+.g-4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px}
+.g-4 h3{font-size:19px;margin-top:10px}
+.g-2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--gap)}
+.g-2 h3{font-size:23px;margin-top:10px}
+
+/* deportes: destacada horizontal */
+.dep-top{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:var(--gap);
+  margin:0 0 24px;padding:0 0 24px;border-bottom:1px solid var(--filete)}
+.dep-top h3{font-size:30px;margin-top:4px}
+
+/* ---------------------------------------------------------------- lateral --- */
+.modulo{background:var(--hueso);padding:20px;margin:0 0 26px}
+.modulo__t{font-family:var(--cond);font-size:20px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.03em;margin:0 0 14px;padding-bottom:10px;border-bottom:2px solid var(--tinta)}
+.impresa__tapa{display:block;box-shadow:0 1px 2px rgba(0,0,0,.08),0 10px 24px rgba(0,0,0,.14);
+  transition:transform .3s}
+.impresa__tapa:hover{transform:translateY(-3px)}
+.impresa__dato{margin:14px 0 0;font-family:var(--cond);font-size:15px;color:var(--gris)}
+.impresa__dato b{color:var(--tinta);font-size:17px}
+.btn{display:inline-block;margin-top:12px;background:var(--tinta);color:#fff;font-family:var(--cond);
+  font-size:14px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;padding:10px 16px;
+  transition:background .2s}
+.btn:hover{background:var(--rojo)}
+
+.necro{list-style:none;margin:0;padding:0}
+.necro li{padding:11px 0;border-bottom:1px solid var(--filete)}
+.necro li:last-child{border-bottom:0}
+.necro a{display:block;font-family:var(--serif);font-size:16.5px;font-weight:600;line-height:1.3}
+.necro a:hover{text-decoration:underline}
+.necro span{display:block;margin-top:2px;font-family:var(--cond);font-size:13.5px;color:var(--gris-cl)}
+.necro__cruz{color:var(--gris);margin-right:5px}
+
+.lat-avisos{display:flex;flex-direction:column;gap:20px}
+
+/* ------------------------------------------------ comercios (cuadrados) --- */
+.comercios{margin:44px 0 0;padding:28px 0 6px;border-top:4px solid var(--tinta)}
+.comercios__head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin:0 0 20px}
+.comercios__head h2{font-size:26px;text-transform:uppercase}
+.comercios__head p{margin:0;font-family:var(--cond);font-size:15px;color:var(--gris)}
+.comercios__grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:14px}
+.comercios__grid a{display:block;background:#fff;border:1px solid var(--filete);aspect-ratio:1/1;
+  overflow:hidden;transition:border-color .2s,transform .2s}
+.comercios__grid a:hover{border-color:var(--tinta);transform:translateY(-2px)}
+.comercios__grid img{width:100%;height:100%;object-fit:contain;background:#fff}
+
+/* ------------------------------------------------------------------- pie --- */
+.pie{margin-top:56px;background:var(--tinta);color:#C9CACD;font-family:var(--cond)}
+.pie__top{display:grid;grid-template-columns:1.1fr 1.4fr 1fr;gap:44px;padding:44px 0 34px}
+.pie__logo{width:260px}
+.pie__lema{margin:12px 0 0;font-size:15px;letter-spacing:.04em;color:#9C9DA1}
+.pie h4{margin:0 0 14px;color:#fff;font-size:17px;text-transform:uppercase;letter-spacing:.1em}
+.legal{display:grid;grid-template-columns:auto 1fr;gap:6px 16px;margin:0;font-size:15px}
+.legal dt{color:#8F9094;text-transform:uppercase;font-size:12.5px;letter-spacing:.08em;padding-top:2px}
+.legal dd{margin:0;color:#E8E8EA}
+.legal a{color:#fff;text-decoration:underline;text-decoration-color:var(--rojo);text-underline-offset:3px}
+.pie__secs{columns:2;column-gap:20px;margin:0;padding:0;list-style:none;font-size:16px}
+.pie__secs li{margin:0 0 8px;break-inside:avoid}
+.pie__secs a:hover{color:#fff}
+.pie__base{border-top:1px solid #34353A;padding:16px 0;font-size:14px;color:#8F9094}
+.pie__base .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+
+/* -------------------------------------------------------------- responsive --- */
+@media (max-width:1100px){
+  .cuerpo{grid-template-columns:minmax(0,1fr) 280px;gap:32px}
+  .g-4{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .comercios__grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+}
+
+@media (max-width:900px){
+  .apertura{grid-template-columns:minmax(0,1fr)}
+  .apertura__col{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}
+  .apertura__col .nota{border-bottom:0;padding-bottom:0}
+  .apertura__col .nota--fila{display:block}
+  .apertura__col .nota--fila .nota__img img{aspect-ratio:16/10}
+  .apertura__col .nota--fila h3{font-size:20px;margin-top:10px}
+  .cuerpo{grid-template-columns:minmax(0,1fr)}
+  /* en tablet/celular el lateral baja despues del contenido */
+  .lateral{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+  .lateral .modulo{margin:0}
+  .lat-avisos{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+  .pie__top{grid-template-columns:1fr 1fr}
+  .pie__top>div:first-child{grid-column:1/-1}
+}
+
+@media (max-width:760px){
+  body{font-size:16px}
+  .top__fecha{display:none}
+  .masthead{display:none}
+  .nav .wrap{min-height:52px}
+  .nav__links{display:none}
+  .nav__links.abierto{display:flex;position:absolute;left:0;right:0;top:100%;flex-direction:column;
+    background:var(--papel);border-bottom:3px double var(--tinta);padding:6px 16px 14px}
+  .nav__links.abierto a{padding:12px 0;border-bottom:1px solid var(--filete)}
+  .nav__links.abierto a::after{display:none}
+  .nav__burger{display:grid;place-items:center;width:42px;height:42px;border:0;background:none;cursor:pointer}
+  .nav__burger svg{width:24px;height:24px}
+  .nav__logo-mini{display:block;flex:1;max-width:190px;margin-inline:auto}
+  .ticker__items a:nth-child(n+2){display:none}
+  .apertura{padding:16px 0 22px}
+  .lead .bajada{font-size:17px}
+  .apertura__col{grid-template-columns:minmax(0,1fr)}
+  .apertura__col .nota{display:grid;grid-template-columns:120px minmax(0,1fr);gap:14px;
+    padding-bottom:16px;border-bottom:1px solid var(--filete)}
+  .apertura__col .nota__img img{aspect-ratio:4/3}
+  .apertura__col h3{font-size:18.5px;margin-top:0}
+  .apertura__col .bajada{display:none}
+  .g-1l,.g-2,.dep-top{grid-template-columns:minmax(0,1fr)}
+  .g-4{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+  .g-4 h3{font-size:17px}
+  .lista .nota{grid-template-columns:104px minmax(0,1fr)}
+  .lateral{grid-template-columns:minmax(0,1fr)}
+  /* avisos verticales de a dos: la mitad de alto que hoy */
+  .lat-avisos{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  /* de a dos: a tres por fila (~120 px) la letra chica de los avisos no se lee */
+  .comercios__grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .comercios__head{flex-direction:column;gap:4px}
+  .aviso{margin:20px auto}
+  .pie__top{grid-template-columns:minmax(0,1fr);gap:30px}
+}
+
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important}
+}
