@@ -117,6 +117,13 @@ MENU = [("Inicio", "", False), ("La Ciudad", "la-ciudad", False), ("Política", 
         ("Servicios", "servicios", False)]
 
 
+# horizontales en el orden de aparicion: cabecera, entre secciones y banda final
+H = ["banner-AEFIP.gif", "publi-tapa-web.jpg", "colegio-arquitectos-web.jpg", "cimes-banner.gif",
+     "silvia-banner.gif", "vetrinaria-zubeldia.gif", "bomberos-banner-1.gif",
+     "Carne.jpg", "bonetti_nov2020.jpeg", "zionnn.jpeg"]
+assert sorted(H) == sorted(f for f, a in AV.items() if a["forma"] == "horizontal"), "faltan horizontales"
+
+
 def menu():
     out = []
     for t, slug, nuevo in MENU:
@@ -127,24 +134,8 @@ def menu():
     return "".join(out)
 
 
-def main():
-    hoy = date(2026, 10, 12)
-    fecha_larga = f"{DIAS[hoy.weekday()].capitalize()} {hoy.day} de {MESES[hoy.month - 1]} de {hoy.year}"
-
-    necros = [i for i, n in enumerate(N) if "Necrológicas" in n["cats"]]
-    necro_html = "".join(
-        f'<li><a href="{N[i]["link"]}"><span class="necro__cruz" aria-hidden="true">†</span>'
-        f'{esc(N[i]["titulo"].replace(" Q.E.P.D.", ""))}</a><span>{fecha(N[i]["fecha"])} · Q.E.P.D.</span></li>'
-        for i in necros)
-
-    verticales = [f for f, a in AV.items() if a["forma"] == "vertical"]
-    cuadrados = [f for f, a in AV.items() if a["forma"] == "cuadrado"]
-    # horizontales en el orden de aparicion: cabecera, entre secciones y banda final
-    H = ["banner-AEFIP.gif", "publi-tapa-web.jpg", "colegio-arquitectos-web.jpg", "cimes-banner.gif",
-         "silvia-banner.gif", "vetrinaria-zubeldia.gif", "bomberos-banner-1.gif",
-         "Carne.jpg", "bonetti_nov2020.jpeg", "zionnn.jpeg"]
-    assert sorted(H) == sorted(f for f, a in AV.items() if a["forma"] == "horizontal"), "faltan horizontales"
-
+def principal_v1():
+    """Columna principal de la v1: seis secciones con 4-5 notas cada una."""
     ciudad = (f'<div class="g-1l">{nota(34, "nota--gr", bajada=True, volanta=False)}'
               f'<div class="lista">{nota(30, volanta=False)}{nota(22, volanta=False)}{nota(56, volanta=False)}</div></div>')
     politica = f'<div class="g-2">{nota(28, bajada=True, volanta=False)}{nota(41, bajada=True, volanta=False)}{nota(31, volanta=False)}{nota(18, volanta=False)}</div>'
@@ -158,6 +149,34 @@ def main():
     cultura = f'<div class="g-1l">{nota(29, "nota--gr", bajada=True, volanta=False)}<div class="lista">{nota(2, volanta=False)}{nota(13, volanta=False)}{nota(21, volanta=False)}</div></div>'
     sociedad = f'<div class="g-4">{nota(25, volanta=False)}{nota(24, volanta=False)}{nota(27, volanta=False)}{nota(55, volanta=False)}</div>'
 
+    return f"""
+      {sec("La Ciudad", "la-ciudad", ciudad)}
+      {sec("Política", "politica", politica)}
+      {aviso(H[2])}
+      {sec("Deportes", "deportes", deportes)}
+      {aviso(H[3])}
+      {sec("Seguridad", "policiales", seguridad)}
+      {aviso(H[4])}
+      {sec("Cultura", "cultura", cultura)}
+      {aviso(H[5])}
+      {sec("Sociedad", "sociedad", sociedad)}
+    """
+
+
+def armar(principal, archivo="index.html", titulo="El Nuevo Cronista — Propuesta de rediseño de portada"):
+    """Arma la pagina completa alrededor de la columna principal que se le pase."""
+    hoy = date(2026, 10, 12)
+    fecha_larga = f"{DIAS[hoy.weekday()].capitalize()} {hoy.day} de {MESES[hoy.month - 1]} de {hoy.year}"
+
+    necros = [i for i, n in enumerate(N) if "Necrológicas" in n["cats"]]
+    necro_html = "".join(
+        f'<li><a href="{N[i]["link"]}"><span class="necro__cruz" aria-hidden="true">†</span>'
+        f'{esc(N[i]["titulo"].replace(" Q.E.P.D.", ""))}</a><span>{fecha(N[i]["fecha"])} · Q.E.P.D.</span></li>'
+        for i in necros)
+
+    verticales = [f for f, a in AV.items() if a["forma"] == "vertical"]
+    cuadrados = [f for f, a in AV.items() if a["forma"] == "cuadrado"]
+
     ticker = "".join(f'<a href="{N[i]["link"]}">{esc(N[i]["titulo"])}</a>' for i in (0, 36, 25))
 
     page = f'''<!doctype html>
@@ -165,7 +184,7 @@ def main():
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>El Nuevo Cronista — Propuesta de rediseño de portada</title>
+<title>{titulo}</title>
 <!-- maqueta privada: que Google no la indexe (seria contenido duplicado del diario real) -->
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="theme-color" content="#1A1A1C">
@@ -211,18 +230,7 @@ def main():
   {aviso(H[1])}
 
   <div class="cuerpo">
-    <div class="principal">
-      {sec("La Ciudad", "la-ciudad", ciudad)}
-      {sec("Política", "politica", politica)}
-      {aviso(H[2])}
-      {sec("Deportes", "deportes", deportes)}
-      {aviso(H[3])}
-      {sec("Seguridad", "policiales", seguridad)}
-      {aviso(H[4])}
-      {sec("Cultura", "cultura", cultura)}
-      {aviso(H[5])}
-      {sec("Sociedad", "sociedad", sociedad)}
-    </div>
+    <div class="principal">{principal}</div>
 
     <aside class="lateral" aria-label="Edición impresa, necrológicas y avisos">
       <section class="modulo impresa">
@@ -290,11 +298,15 @@ def main():
 </body>
 </html>
 '''
-    open(os.path.join(BASE, "index.html"), "w").write(page)
+    open(os.path.join(BASE, archivo), "w").write(page)
     usados = page.count('alt="Aviso"')
-    print(f"index.html OK — avisos en la pagina: {usados} de {len(AV)}  "
+    print(f"{archivo} OK — avisos en la pagina: {usados} de {len(AV)}  "
           f"(H {len(H)} · V {len(verticales)} · C {len(cuadrados)})")
     print(f"notas en la pagina: {page.count('<article class=\"nota')} + {len(necros)} necrologicas")
+
+
+def main():
+    armar(principal_v1())
 
 
 if __name__ == "__main__":

@@ -1,0 +1,914 @@
+{
+ "la-ciudad": [
+  {
+   "id": 54297,
+   "fecha": "2026-10-12",
+   "titulo": "El HCD inicia octubre con una  amplia agenda de proyectos",
+   "bajada": "El cuerpo legislativo sesionará este martes a las 19 horas en el Palacio Municipal • Tras el feriado, el recinto abordará expedientes sobre seguridad, obras viales, PyMEs e respuestas del Departamento Ejecutivo. El Honorable Concejo Deliberante de Mercedes llevará a cabo la primera sesión ordinaria del mes de octubre este martes a las 19:00",
+   "link": "https://elnuevocronista.com/el-hcd-inicia-octubre-con-una-amplia-agenda-de-proyectos/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/04/sesion-hcd-768x432.jpg"
+  },
+  {
+   "id": 54275,
+   "fecha": "2026-10-10",
+   "titulo": "Mercedes fue sede del encuentro regional de Escuelas Técnicas",
+   "bajada": "La jornada congregó a delegaciones de distritos como Luján, San Andrés de Giles, Cañuelas, Suipacha, General Las Heras, General Rodríguez, Navarro y Marcos Paz, consolidando un destacado espacio de intercambio pedagógico, evaluación de capacidades profesionales y competencias de robótica y tecnología.",
+   "link": "https://elnuevocronista.com/mercedes-fue-sede-del-encuentro-regional-de-escuelas-tecnicas/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/regional-1-1024x768.jpg"
+  },
+  {
+   "id": 54240,
+   "fecha": "2026-10-10",
+   "titulo": "El Parlamento Juvenil Bonaerense sesionó en el HCD",
+   "bajada": "El ámbito legislativo local abrió sus puertas para recibir a las nuevas generaciones en una jornada de debate y convivencia democrática.",
+   "link": "https://elnuevocronista.com/el-parlamento-juvenil-bonaerense-sesiono-en-el-hcd/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/Parlamento-1-e1791665340907-1024x789.jpg"
+  },
+  {
+   "id": 54237,
+   "fecha": "2026-10-10",
+   "titulo": "Anuncian un fondo municipal para sostener los talleres de las Escuelas Técnicas",
+   "bajada": "El intendente Juan Ustarroz anunció una importante inversión municipal destinada a sostener los talleres formativos y compensar la quita de recursos a nivel nacional. Es para las escuelas técnicas de la ciudad. “Este no es únicamente un subsidio: es como poner un poquito más de fe a lo que es la educación técnica” dijo María",
+   "link": "https://elnuevocronista.com/anuncian-un-fondo-municipal-para-sostener-los-talleres-de-las-escuelas-tecnicas/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/fondo-educativo-web-768x512.jpg"
+  },
+  {
+   "id": 54222,
+   "fecha": "2026-10-08",
+   "titulo": "Abrieron la inscripción 2027 para los Jardines Maternales Municipales",
+   "bajada": "La convocatoria está destinada a salas de lactarios y deambuladores, abarcando a niños desde los 45 días de vida hasta un año, incluyendo bebés en gestación. El trámite se realiza de forma presencial en las tres sedes del distrito.",
+   "link": "https://elnuevocronista.com/abrieron-la-inscripcion-2027-para-los-jardines-maternales-municipales/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/maternales-768x512.jpg"
+  },
+  {
+   "id": 54196,
+   "fecha": "2026-10-07",
+   "titulo": "El Municipio y los gremios cerraron un nuevo acuerdo paritario",
+   "bajada": "El entendimiento entre la Comuna y las representaciones sindicales fijó un incremento del 6% al básico para octubre y elevó la suba salarial acumulada al 31% en el año, con impacto en jubilados del IPS • El esquema incluye la suba del presentismo a $150.000 y un paquete de bonos que contempla pagos en noviembre,",
+   "link": "https://elnuevocronista.com/el-municipio-y-los-gremios-cerraron-un-nuevo-acuerdo-paritario/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2023/01/Municipales-1-1024x768.jpg"
+  },
+  {
+   "id": 54181,
+   "fecha": "2026-10-07",
+   "titulo": "Mercedes, entre los diez municipios bonaerenses más transparentes",
+   "bajada": "Mercedes se ubica entre los diez municipios más transparentes de la provincia de Buenos Aires, según un ranking establecido por un sitio web especializado a partir de una evaluación detallada de los datos de gestión con acceso público. Con un puntaje de 77,8 sobre 100, la gestión encabezada por el intendente Juan Ustarroz se ubica",
+   "link": "https://elnuevocronista.com/mercedes-entre-los-diez-municipios-bonaerenses-mas-transparentes/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/12/municipalidad-768x512.jpg"
+  },
+  {
+   "id": 54095,
+   "fecha": "2026-10-05",
+   "titulo": "La ruta 5 llega a la justicia local",
+   "bajada": "Dirigentes del radicalismo bonaerense junto al ex ministro de gobierno Juan Antonio Portesi promoverán una acción judicial para garantizar obras inmediatas en el corredor • Se decidió en un acto realizado en 9 de julio al que acudió una nutrida representación local. Dirigente locales, provinciales y nacionales de la Unión Cívica Radical (UCR) encabezaron",
+   "link": "https://elnuevocronista.com/la-ruta-5-llega-a-la-justicia-local/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/radicales-ruta5-web-768x453.jpg"
+  },
+  {
+   "id": 54083,
+   "fecha": "2026-10-04",
+   "titulo": "Estudiantes del Colegio Nacional presentaron una conmovedora obra teatral por la memoria",
+   "bajada": "En el Teatro Julio César Gioscio, jóvenes de 5º y 6º año conmemoraron los hechos de “La Noche de los Lápices” a través del arte y fueron distinguidos por su compromiso con los derechos humanos.",
+   "link": "https://elnuevocronista.com/estudiantes-del-colegio-nacional-presentaron-una-conmovedora-obra-teatral-por-la-memoria/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/lapices-2-1024x682.jpg"
+  },
+  {
+   "id": 54081,
+   "fecha": "2026-10-04",
+   "titulo": "El barrio Mitre renovó sus autoridades",
+   "bajada": "La junta directiva quedó encabezada por Rubén Darío Medina como presidente para iniciar una nueva etapa de gestión vecinal • El espacio completó la nómina con las vocalías y la comisión revisora de cuentas.",
+   "link": "https://elnuevocronista.com/el-barrio-mitre-renovo-sus-autoridades/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/Mitre-1024x768.jpg"
+  },
+  {
+   "id": 54035,
+   "fecha": "2026-10-04",
+   "titulo": "Gran primera jornada del Festival de Cerveceros Mercedinos: la fiesta continúa este domingo",
+   "bajada": "El 8° Festival de Cerveceros Mercedinos vivió una excelente jornada inaugural este sábado, con un gran marco de público que acompañó la propuesta impulsada por la Comisión de Cerveceros y la Municipalidad de Mercedes. Amar Azul y Grupo Play hicieron vibrar a los asistentes, con una gran pista de baile para el cierre.",
+   "link": "https://elnuevocronista.com/gran-primera-jornada-del-festival-de-cerveceros-mercedinos-la-fiesta-continua-este-domingo/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/1003-1-1024x576.jpg"
+  },
+  {
+   "id": 54020,
+   "fecha": "2026-10-02",
+   "titulo": "Presentaron el balance económico de la 51ª Fiesta Nacional del Salame Quintero",
+   "bajada": "El encuentro estuvo encabezado por el intendente municipal junto a los representantes de productores, clubes, cultura y funcionarios • El resultado para la ciudad es sumamente positivo, con 23.6 millones de superávit y $1.027.965.600 movilizados a la economía interna.",
+   "link": "https://elnuevocronista.com/presentaron-el-balance-economico-de-la-51a-fiesta-nacional-del-salame-quintero/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/DSC03972-1024x682.jpg"
+  },
+  {
+   "id": 53993,
+   "fecha": "2026-10-01",
+   "titulo": "Con gran participación y la visita de ministra Terigi, cerró la primera jornada del 3° Congreso de Educación",
+   "bajada": "Con un auditorio repleto y cientos de docentes y personal educativo presente, cerro la primera jornada del encuentro que combinó talleres, reflexión colectiva y una disertación central a cargo de la directora general de Cultura y Educación bonaerense, Flavia Tegigi, enfocada en las trayectorias escolares y la concurrencia a las aulas.",
+   "link": "https://elnuevocronista.com/con-gran-participacion-y-la-visita-de-ministra-terigi-cerro-la-primera-jornada-del-3-congreso-de-educacion/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/DSC_0041-1024x682.jpg"
+  },
+  {
+   "id": 53985,
+   "fecha": "2026-10-01",
+   "titulo": "Se viene el 8° Festival de Cerveceros Mercedinos con Amar Azul, Grupo Play y gran tributo ricotero",
+   "bajada": "El Parque Municipal Independencia será escenario este sábado 3 y domingo 4 de octubre de una nueva edición del tradicional Festival de Cerveceros Mercedinos. Con una cartelera musical de primer nivel, gastronomía local y cerveza artesanal de calidad, el evento promete ser uno de los grandes atractivos turísticos y familiares de la primavera.",
+   "link": "https://elnuevocronista.com/se-viene-el-8-festival-de-cerveceros-mercedinos-con-amar-azul-grupo-play-y-gran-tributo-ricotero/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/Cerveceros.3-1024x682.jpg"
+  }
+ ],
+ "politica": [
+  {
+   "id": 54290,
+   "fecha": "2026-10-12",
+   "titulo": "La UCR busca promover el empleo con un régimen de crédito fiscal",
+   "bajada": "La propuesta prevé incentivos directos para la contratación de trabajadores y la modernización tecnológica a través de certificados fiscales transferibles y aplicables a tasas municipales • Servirían para pagar tasas y contribuciones actuales o pasadas. Buscando de mitigar el impacto de la desocupación y la subocupación en el entramado productivo local, el bloque de",
+   "link": "https://elnuevocronista.com/la-ucr-busca-promover-el-empleo-con-un-regimen-de-credito-fiscal/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/ediles-radicales.jpg"
+  },
+  {
+   "id": 54285,
+   "fecha": "2026-10-12",
+   "titulo": "Atilio Borón: “Llevar la Universidad Pública a Mercedes cambiaría drásticamente el mapa social y económico de la ciudad”",
+   "bajada": "El pasado jueves 8, el sociólogo Atilio Borón y el delegado gremial de la CGT Juan Martín “Vasco” Andrés analizaron en un encuentro privado la realidad Argentina, y también de la ciudad de Mercedes, coincidiendo en la importancia de establecer una universidad pública local, entre otras cuestiones. Hay encuentros que no se planifican",
+   "link": "https://elnuevocronista.com/atilio-boron-llevar-la-universidad-publica-a-mercedes-cambiaria-drasticamente-el-mapa-social-y-economico-de-la-ciudad/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/boron-andres-768x605.jpg"
+  },
+  {
+   "id": 54231,
+   "fecha": "2026-10-10",
+   "titulo": "“Invitan a llenarse los bolsillos mientras entregan nuestros recursos”",
+   "bajada": "El delegado regional de la CGT Regional Mercedes, Navarro y San Andrés de Giles, Juan Martín Andrés, cuestionó la eliminación de los límites a la extranjerización de tierras y advirtió sobre las consecuencias de una política que deja recursos estratégicos del país cada vez más expuestos a intereses extranjeros. La discusión volvió a tomar fuerza",
+   "link": "https://elnuevocronista.com/invitan-a-llenarse-los-bolsillos-mientras-entregan-nuestros-recursos/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/vasco-768x512.jpg"
+  },
+  {
+   "id": 54203,
+   "fecha": "2026-10-08",
+   "titulo": "Sabrina Selva reclamó debatir el rechazo al DNU 70/23 tras el fallo por la Ley de Tierras",
+   "bajada": "La diputada nacional cuestionó la decisión de la Corte Suprema y advirtió sobre el impacto del decreto en la venta de campos a extranjeros. Sectores opositores solicitaron convocar a una sesión especial en Diputados para mediados de mes.",
+   "link": "https://elnuevocronista.com/sabrina-selva-reclamo-debatir-el-rechazo-al-dnu-70-23-tras-el-fallo-por-la-ley-de-tierras/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2025/07/sabrina-selva-768x401.jpg"
+  },
+  {
+   "id": 54193,
+   "fecha": "2026-10-07",
+   "titulo": "El HCD otorgará reconocimientos a dos exjefes de Bomberos Voluntarios",
+   "bajada": "Los proyectos, respaldados por la totalidad de los bloques parlamentarios, distinguirán la trayectoria de los comandantes mayores en reserva Alberto José “Pepe” Viscardi y Alfredo Ismael Gutiérrez • Destacan la presencia de la institución como un ejemplo de continuidad, trabajo en equipo y construcción para la función pública.",
+   "link": "https://elnuevocronista.com/el-hcd-otorgara-reconocimientos-a-dos-exjefes-de-bomberos-voluntarios/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/04/sesion-hcd-768x432.jpg"
+  },
+  {
+   "id": 54149,
+   "fecha": "2026-10-06",
+   "titulo": "El inglés crítica el convenio con el CEAMSE",
+   "bajada": "Edgar Killmeate habló de su incorporación al equipo de trabajo de Bernardo Zubeldía • Asimismo, advirtió sobre las inconsistencias contables del convenio municipal y criticó el rol del oficialismo.",
+   "link": "https://elnuevocronista.com/el-ingles-critica-el-convenio-con-el-ceamse/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/killmeatte.jpg"
+  },
+  {
+   "id": 53946,
+   "fecha": "2026-09-29",
+   "titulo": "La pirotecnia volvió al centro del debate en el HCD",
+   "bajada": "Concejales de Vecinos por Mercedes y la UCR impulsaron un pedido de informes sobre los controles realizados durante el 21 de septiembre • El oficialismo defendió el trabajo preventivo que se desarrolla durante todo el año, mientras que la oposición cuestionó los resultados obtenidos.",
+   "link": "https://elnuevocronista.com/la-pirotecnia-volvio-al-centro-del-debate-en-el-hcd/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/HCD-1-1024x974.jpg"
+  },
+  {
+   "id": 53944,
+   "fecha": "2026-09-29",
+   "titulo": "El MID plantea un esquema de desarrollo productivo y proyecta su plataforma local",
+   "bajada": "En su paso por Mercedes, el diputado nacional Eduardo Falcone cuestionó el rumbo del Gobierno nacional y mantuvo un encuentro con el Arzobispo Jorge Eduardo Scheinig • A nivel distrital, la dirigente Sandra Gutiérrez confirmó el trabajo en un plan de gobierno propio enfocado en los servicios y la seguridad.",
+   "link": "https://elnuevocronista.com/el-mid-plantea-un-esquema-de-desarrollo-productivo-y-proyecta-su-plataforma-local/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/MID-2-768x446.jpg"
+  },
+  {
+   "id": 53932,
+   "fecha": "2026-09-29",
+   "titulo": "La Libertad Avanza recorrió tres barrios de Mercedes",
+   "bajada": "Un grupo de militantes y referentes recorrió casa por casa escuchando las necesidades y problemáticas de los vecinos, llevando el mensaje de cambio y de gestión que el Presidente Javier Milei representa a nivel nacional.",
+   "link": "https://elnuevocronista.com/la-libertad-avanza-recorrio-tres-barrios-de-mercedes/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/LLA-2-e1790717482369-1024x736.jpg"
+  },
+  {
+   "id": 53904,
+   "fecha": "2026-09-29",
+   "titulo": "El HCD distinguió el libro “Guerra y Pan”",
+   "bajada": "El Honorable Concejo Deliberante de Mercedes entregó un reconocimiento al doctor Federico Belzunces por su reciente obra poética “Guerra y Pan” • Durante el homenaje, el autor reflexionó sobre la guerra, la sensibilidad humana y el valor de la memoria histórica.",
+   "link": "https://elnuevocronista.com/el-hcd-distinguio-el-libro-guerra-y-pan/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/HCD-rec-e1790711542212-1024x658.jpg"
+  },
+  {
+   "id": 53811,
+   "fecha": "2026-09-25",
+   "titulo": "Carlos Mosso cruzó a Santiago Altube por el fomento productivo",
+   "bajada": "Respaldó el proyecto presentado por Bernardo Zubeldía y le respondió al titular del bloque oficialista • Cuestionó la falta de radicación industrial en el distrito, las trabas burocráticas al comercio local y exigió que el debate parlamentario se dé con seriedad técnica en comisiones.",
+   "link": "https://elnuevocronista.com/carlos-mosso-cruzo-a-santiago-altube-por-el-fomento-productivo/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/Mosso-1-e1790379565525.jpg"
+  },
+  {
+   "id": 53775,
+   "fecha": "2026-09-23",
+   "titulo": "Wado de Pedro visitó el Mercado Agroganadero de Cañuelas",
+   "bajada": "El senador nacional recorrió la Semana Angus junto a intendentes de la región y referentes bonaerenses • Durante la visita dialogó con productores sobre producción, empleo e inversión en uno de los principales polos ganaderos del país.",
+   "link": "https://elnuevocronista.com/wado-de-pedro-visito-el-mercado-agroganadero-de-canuelas/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/Wado-1024x684.jpg"
+  },
+  {
+   "id": 53756,
+   "fecha": "2026-09-23",
+   "titulo": "Vecinos por Mercedes ingresó en el HCD un proyecto para incentivar inversiones con exenciones impositivas y fomento al empleo local",
+   "bajada": "La propuesta contempla la unificación del régimen de promoción mediante una Ventanilla Única Digital, beneficios fiscales decrecientes por 10 años y la exigencia de cubrir al menos un 50 % de la nómina con trabajadores residentes en el distrito. El bloque de concejales de Vecinos por Mercedes elevó este miércoles 23 de septiembre al Honorable",
+   "link": "https://elnuevocronista.com/vecinos-por-mercedes-ingreso-en-el-hcd-un-proyecto-para-incentivar-inversiones-con-exenciones-impositivas-y-fomento-al-empleo-local/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-23-at-11.44.44-768x768.jpeg"
+  },
+  {
+   "id": 53753,
+   "fecha": "2026-09-22",
+   "titulo": "Zubeldía, crítico: “La escribanía exprés del Ejecutivo tuvo su sanción, que era lo que quería”",
+   "bajada": "El legislador se refirió a la deuda con el CEAMSE y remarcó que “hay una diferencia de 66 millones de pesos. Acá no sé si es que copiaron y pegaron un Excel o si se llevaron matemática de cuarto grado, pero la realidad es que hay una desidia de parte del Ejecutivo y de los",
+   "link": "https://elnuevocronista.com/zubeldia-critico-la-escribania-expres-del-ejecutivo-tuvo-su-sancion-que-era-lo-que-queria/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/Zubeldia-768x412.jpg"
+  }
+ ],
+ "deportes": [
+  {
+   "id": 54273,
+   "fecha": "2026-10-10",
+   "titulo": "Quilmes recibió a Jacobo Urso y sumó una gran jornada",
+   "bajada": "Las formativas del “Cervecero” fueron locales este sábado en el gimnasio “Rolo Cardinal” por la fecha 14 del torneo de la ABCh. Mini, Infantiles y Cadetes salieron a la cancha ante Jacobo Urso de Saladillo, con saldo positivo para los equipos mercedinos.",
+   "link": "https://elnuevocronista.com/quilmes-recibio-a-jacobo-urso-y-sumo-una-gran-jornada/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dformativas-cadetes-1024x576.jpg"
+  },
+  {
+   "id": 54271,
+   "fecha": "2026-10-10",
+   "titulo": "Dura caída del MRC en Varela",
+   "bajada": "Mercedes Rugby Club perdió 34-10 ante Varela Jr. por la 24ª fecha del certamen • En la próxima jornada buscará recuperarse cuando visite a Las Cañas.",
+   "link": "https://elnuevocronista.com/dura-caida-del-mrc-en-varela/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/drugby-1024x660.jpg"
+  },
+  {
+   "id": 54267,
+   "fecha": "2026-10-10",
+   "titulo": "El Cross del Balta ya se empieza a sentir",
+   "bajada": "Contará con un recorrido increíble que va desde la Estación Experimental hasta la Reserva Natural Arroyo Balta. Con distancias para que todos puedan sumarse: 3k, 8.5k, 15k, 20k.",
+   "link": "https://elnuevocronista.com/el-cross-del-balta-ya-se-empieza-a-sentir/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dbalta-770x1024.jpg"
+  },
+  {
+   "id": 54250,
+   "fecha": "2026-10-10",
+   "titulo": "Emanuel Gómez Padula lidera el Abierto de Primavera",
+   "bajada": "El certamen que se juega en el Club Del Progreso completó una nueva fecha con triunfos clave en los tableros superiores • El torneo se disputa bajo el sistema suizo a ritmo clásico y entrará en su quinta jornada.",
+   "link": "https://elnuevocronista.com/emanuel-gomez-padula-lidera-el-abierto-de-primavera/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dajedrez-1-1024x576.jpg"
+  },
+  {
+   "id": 54244,
+   "fecha": "2026-10-10",
+   "titulo": "Quilmes volvió al triunfo",
+   "bajada": "El “Cervecero” se hizo fuerte en el Rolo Cardinal y derrotó con claridad a Argentino de Chivilcoy • Con una sólida actuación colectiva y varios jugadores en buen nivel, el equipo de José Luis Giallorenzo cortó la racha adversa en el Clausura de la ABCh.",
+   "link": "https://elnuevocronista.com/quilmes-volvio-al-triunfo/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dquilmes-1-1024x576.jpg"
+  },
+  {
+   "id": 54214,
+   "fecha": "2026-10-08",
+   "titulo": "Milagros Trejo se consagró campeona argentina de Patín Adaptado en Miramar",
+   "bajada": "La representante del Club Mercedes obtuvo el título máximo en la Copa de Adaptados Taguará durante el certamen nacional. La delegación local estuvo dirigida por la técnica Laura Brunello y contó con la participación de cuatro patinadoras del distrito.",
+   "link": "https://elnuevocronista.com/milagros-trejo-se-consagro-campeona-argentina-de-patin-adaptado-en-miramar/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dpatin-e1791428436525.jpg"
+  },
+  {
+   "id": 54141,
+   "fecha": "2026-10-06",
+   "titulo": "Club Mercedes igualó ante Deportivo Paraguayo",
+   "bajada": "El conjunto dirigido por Oscar Mena empató 1 a 1 en el marco de la penúltima fecha del certamen de Primera C • Lisandro Sánchez Olmos adelantó al blanquinegro en la primera mitad, mientras que Rodrigo Ortiz selló la paridad en el complemento • La clasificación se definirá en la última jornada como local en",
+   "link": "https://elnuevocronista.com/club-mercedes-igualo-ante-deportivo-paraguayo/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dmerce-1024x652.jpg"
+  },
+  {
+   "id": 54137,
+   "fecha": "2026-10-05",
+   "titulo": "Tercera fecha para el Torneo de Primavera",
+   "bajada": "La competencia organizada por Alejandro Altieri y Francisco Viola reúne a ajedrecistas de la ciudad y la región bajo la modalidad clásica • Tras el desarrollo de los encuentros, Emanuel Gómez Padula y Juan Cruz Zeballos lideran las acciones de cara a la cuarta ronda.",
+   "link": "https://elnuevocronista.com/tercera-fecha-para-el-torneo-de-primavera/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dprimavera-1024x765.jpg"
+  },
+  {
+   "id": 54134,
+   "fecha": "2026-10-05",
+   "titulo": "Nueva jornada para Ateneo y el MRC",
+   "bajada": "Las formaciones locales disputaron sus compromisos correspondientes a los torneos F3 y G3 de la AAHBA en calidad de visitantes • La lluvia de la madrugada del sábado obligó a reprogramar la tira de inferiores, disputándose únicamente los encuentros de los planteles superiores.",
+   "link": "https://elnuevocronista.com/nueva-jornada-para-ateneo-y-el-mrc/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dhockey-2.jpg"
+  },
+  {
+   "id": 54132,
+   "fecha": "2026-10-05",
+   "titulo": "Séptima fecha para la Liga Mercedina de Tenis de Mesa",
+   "bajada": "El certamen local reunió a casi 30 competidores en el predio municipal conducido por Alejandro Russo • El próximo lunes 12 de octubre, la delegación mercedina viajará a Pergamino como líder de la Liga Regional Norte en busca del bicampeonato.",
+   "link": "https://elnuevocronista.com/septima-fecha-para-la-liga-mercedina-de-tenis-de-mesa/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dmesa-3-1024x802.jpg"
+  },
+  {
+   "id": 54122,
+   "fecha": "2026-10-05",
+   "titulo": "Tomás Pescio concretó un destacado debut en el Torneo Nacional de Tenis en Salta",
+   "bajada": "El joven representante local participó por primera vez en el certamen más importante de la Asociación Argentina de Tenis en la categoría Sub 16 • Logró avanzar hasta los octavos de final y se posicionó entre los 16 mejores jugadores del torneo federal.",
+   "link": "https://elnuevocronista.com/tomas-pescio-concreto-un-destacado-debut-en-el-torneo-nacional-de-tenis-en-salta/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dtenis-1024x771.jpg"
+  },
+  {
+   "id": 54111,
+   "fecha": "2026-10-05",
+   "titulo": "Gómez Padula campeón en Rodríguez",
+   "bajada": "El ajedrecista mercedino obtuvo el primer puesto por sistema de desempate en la competencia desarrollada en la Casa de la Cultura rodriguense • La delegación de la ciudad estuvo conformada además por Daniel Picardi y Facundo Mazzocchi.",
+   "link": "https://elnuevocronista.com/gomez-padula-campeon-en-rodriguez/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dajedrez-e1791226285722-1024x794.bmp"
+  },
+  {
+   "id": 54092,
+   "fecha": "2026-10-05",
+   "titulo": "Mercedes y un partido clave ante Paraguayo",
+   "bajada": "El conjunto blanquinegro disputa este lunes desde las 15:00 la penúltima fecha de la Zona A del Torneo de Primera C de la AFA. Un triunfo en condición de visitante ante el elenco guaraní le permitirá meterse de lleno en la zona de clasificación al Reducido por el segundo ascenso a la Primera B Metropolitana.",
+   "link": "https://elnuevocronista.com/mercedes-y-un-partido-clave-ante-paraguayo/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/08/dmerce-1024x1024.jpg"
+  },
+  {
+   "id": 54075,
+   "fecha": "2026-10-04",
+   "titulo": "Quilmes sumó una valiosa victoria ante Sportivo 25 de Mayo",
+   "bajada": "El Cervecero se impuso por 86 a 55 como visitante y construyó una diferencia amplia a partir de su eficacia ofensiva y una sólida tarea colectiva. Patricio Moner y Francisco Dinova fueron las principales figuras de un equipo que dominó ampliamente las acciones.",
+   "link": "https://elnuevocronista.com/quilmes-sumo-una-valiosa-victoria-ante-sportivo-25-de-mayo/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/dquilmes-1024x768.jpg"
+  }
+ ],
+ "policiales": [
+  {
+   "id": 54300,
+   "fecha": "2026-10-12",
+   "titulo": "Esclarecen el hurto de una reja y detienen a su autor",
+   "bajada": "Tras la alerta del hecho el accionar policial permitió esclarecer un hecho delictivo ocurrido durante el fin de semana, logrando identificar al sospechoso y restituir el elemento sustraído. ​El episodio comenzó el sábado 10 de octubre, cuando un joven de 28 años constató a través de las cámaras de su vivienda, que un hombre",
+   "link": "https://elnuevocronista.com/esclarecen-el-hurto-de-una-reja-y-detienen-a-su-autor/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/reja-576x1024.jpg"
+  },
+  {
+   "id": 54228,
+   "fecha": "2026-10-10",
+   "titulo": "Nueva charla gratuita sobre prevención de estafas virtuales",
+   "bajada": "El encuentro se llevará a cabo el sábado 17 de octubre en la sede de “Vecinos por Mercedes”. Estará a cargo del doctor Sebastián Jauregui, especialista en Cibercrimen, y abordará fraudes bancarios, tarjetas y enlaces falsos. ​Ante el creciente avance de los delitos informáticos, la agrupación “Vecinos por Mercedes” convoca a la comunidad a",
+   "link": "https://elnuevocronista.com/nueva-charla-gratuita-sobre-prevencion-de-estafas-virtuales/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/cibercrimen-jauregui-web-768x638.jpg"
+  },
+  {
+   "id": 54139,
+   "fecha": "2026-10-05",
+   "titulo": "Siniestro vial en Ruta 5: circulaban en una moto robada con marihuana y terminaron imputados",
+   "bajada": "Un choque ocurrido a la altura del kilómetro 107 de la Ruta Nacional 5 derivó en la intervención de la Justicia por tres causas conexas: lesiones culposas, encubrimiento e infracción a la Ley de Estupefacientes. En el hecho se vieron involucrados un automóvil y una motocicleta que registraba pedido de secuestro activo por robo.",
+   "link": "https://elnuevocronista.com/siniestro-vial-en-ruta-5-circulaban-en-una-moto-robada-con-marihuana-y-terminaron-imputados/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/moto-1024x879.jpg"
+  },
+  {
+   "id": 54129,
+   "fecha": "2026-10-05",
+   "titulo": "Esclarecen un hurto con un joven de 20 años fue aprehendido tras un allanamiento",
+   "bajada": "Un rápido accionar policial y judicial permitió esclarecer un ilícito ocurrido en una vivienda de la calle 16 en Mercedes. El hecho concluyó con la aprehensión de un sospechoso de 20 años y el secuestro de elementos de interés para la causa tras un procedimiento de registro domiciliario.",
+   "link": "https://elnuevocronista.com/esclarecen-un-hurto-con-un-joven-de-20-anos-fue-aprehendido-tras-un-allanamiento/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/05/detenido-bragado.jpg"
+  },
+  {
+   "id": 54124,
+   "fecha": "2026-10-05",
+   "titulo": "El Club Mercedes sufrió el robo de cableado en su Campo de Deportes",
+   "bajada": "La institución de la ciudad denunció la sustracción de materiales eléctricos sobre la calle 60, afectando la iluminación de las canchas de fútbol. El hecho genera perjuicios en las actividades cotidianas, considerando que la instalación había sido renovada recientemente.",
+   "link": "https://elnuevocronista.com/el-club-mercedes-sufrio-el-robo-de-cableado-en-su-campo-de-deportes/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/robo.jpg"
+  },
+  {
+   "id": 54066,
+   "fecha": "2026-10-04",
+   "titulo": "Detienen a un hombre tras romper el vidrio de un auto y resistirse a la policía",
+   "bajada": "El hecho se desencadenó tras un llamado al 911 que alertaba sobre la presencia de dos hombres alterando el orden en la vía pública • El rápido accionar de la Policía Comunal y el seguimiento del centro de Monitoreo permitió resolver la situación.",
+   "link": "https://elnuevocronista.com/detienen-a-un-hombre-tras-romper-el-vidrio-de-un-auto-y-resistirse-a-la-policia/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/04/poli-1024x576.jpg"
+  },
+  {
+   "id": 53803,
+   "fecha": "2026-09-25",
+   "titulo": "Allanamiento e imputación por llamado alertando falsa amenaza de bomba a entidad educativa",
+   "bajada": "Una alumna mayor de edad quedó imputada y fue citada a comparecer ante el agente fiscal a cargo • Fue por el delito de “Intimidación pública”.",
+   "link": "https://elnuevocronista.com/allanamiento-e-imputacion-por-llamado-alertando-falsa-amenaza-de-bomba-a-entidad-educativa/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/08/policia-768x392.jpg"
+  },
+  {
+   "id": 53649,
+   "fecha": "2026-09-21",
+   "titulo": "Aprehendido por intentar robar una camioneta",
+   "bajada": "En un operativo conjunto entre personal policial local y el Comando de Prevención Rural (CPR), fue aprehendido un hombre de 28 años con domicilio en la Ciudad de Buenos Aires en inmediaciones del Parador “La Picada” (Ruta 5, km 107). El sujeto fue interceptado en el momento en que intentaba sustraer una Toyota Hilux estacionada",
+   "link": "https://elnuevocronista.com/aprehendido-por-intentar-robar-una-camioneta/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/02/policia.jpg"
+  },
+  {
+   "id": 53402,
+   "fecha": "2026-09-09",
+   "titulo": "La Policía Judicial tendrá sede en la Secretaría de Seguridad",
+   "bajada": "Autoridades judiciales y municipales recorrieron el espacio donde funcionará la nueva oficina técnico-científica del Ministerio Público de la Provincia de Buenos Aires • La sede brindará apoyo especializado a los fiscales del Departamento Judicial Mercedes en la recolección y análisis de pruebas.",
+   "link": "https://elnuevocronista.com/la-policia-judicial-tendra-sede-en-la-secretaria-de-seguridad/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/seguridad-1024x687.jpg"
+  },
+  {
+   "id": 53359,
+   "fecha": "2026-09-08",
+   "titulo": "Operativos de seguridad: controles y secuestro de motocicletas",
+   "bajada": "Durante el fin de semana se realizaron procedimientos de prevención y control vehicular en Plaza San Luis y La Trocha. Los operativos, coordinados por la Secretaría de Seguridad, contaron con la participación de distintas fuerzas y derivaron en el secuestro de varias motos.",
+   "link": "https://elnuevocronista.com/operativos-de-seguridad-controles-y-secuestro-de-motocicletas/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/operativo-1-1024x767.jpg"
+  },
+  {
+   "id": 53353,
+   "fecha": "2026-09-08",
+   "titulo": "Triple choque en la Ruta 5 a la altura de Chivilcoy dejó varios heridos",
+   "bajada": "El siniestro ocurrió en la madrugada del lunes 7 de septiembre en el kilómetro 168,400 de la Ruta Nacional 5. Un camión, una pick up y un automóvil protagonizaron la colisión, que derivó en el traslado de los ocupantes de dos vehículos al Hospital Municipal de Chivilcoy.",
+   "link": "https://elnuevocronista.com/triple-choque-en-la-ruta-5-a-la-altura-de-chivilcoy-dejo-varios-heridos/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/ruta-1024x683.jpg"
+  },
+  {
+   "id": 53273,
+   "fecha": "2026-09-07",
+   "titulo": "Desarticulan un intento de estafa telefónica",
+   "bajada": "El hecho se desencadenó en las inmediaciones de calle 1 y 34, cuando los sospechosos se apersonaron en la vivienda del adulto mayor • Al advertir la presencia de familiares de la víctima en el patio delantero, los delincuentes abortaron la maniobra y se dieron a la fuga Un rápido operativo conjunto entre la",
+   "link": "https://elnuevocronista.com/desarticulan-un-intento-de-estafa-telefonica/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/Poli-web-768x576.jpg"
+  },
+  {
+   "id": 53204,
+   "fecha": "2026-09-05",
+   "titulo": "Recuperaron en Chivilcoy un compresor comprado con una identidad falsa en Mercedes",
+   "bajada": "Un hombre de 44 años fue aprehendido en Chivilcoy acusado de participar en una estafa contra una ferretería de Mercedes • La Policía secuestró un compresor valuado en $500.000 y se investiga si hubo otros intentos similares en la zona.",
+   "link": "https://elnuevocronista.com/recuperaron-en-chivilcoy-un-compresor-comprado-con-una-identidad-falsa-en-mercedes/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/chivilcoy-768x432.jpg"
+  },
+  {
+   "id": 53117,
+   "fecha": "2026-09-01",
+   "titulo": "Operativo nocturno en La Trocha",
+   "bajada": "Policía y áreas municipales realizaron controles vehiculares y de documentación • Varias motocicletas fueron secuestradas durante la jornada preventiva.",
+   "link": "https://elnuevocronista.com/operativo-nocturno-en-la-trocha/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/operativo.jpg"
+  }
+ ],
+ "cultura": [
+  {
+   "id": 54293,
+   "fecha": "2026-10-12",
+   "titulo": "Alta participación en el certamen xilográfico",
+   "bajada": "Organizado por el Movimiento Cultural El Limonero y la CUNA, el tradicional concurso reunió a diecinueve artistas locales y de la región • La jornada tuvo como eje la revalorización del patrimonio arquitectónico y natural a través del arte impreso. Con una destacada convocatoria de diecinueve participantes provenientes de Mercedes, Moreno, Luján, Quilmes y",
+   "link": "https://elnuevocronista.com/alta-participacion-en-el-certamen-xilografico/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/Xilografico-web-768x346.jpg"
+  },
+  {
+   "id": 54279,
+   "fecha": "2026-10-11",
+   "titulo": "Sábado de cierre para el VI Festival  Internacional de Teatro Independiente",
+   "bajada": "Durante una semana se pudieron disfrutar distintas obras con representación local, nacional e internacional • Hubo encuentros en diversos espacios, con el Teatro Argentino como epicentro, albergando a más de 1.700 personas. El sábado finalizó el VI Festival Internacional de Teatro Independiente “Beba Mayo” que había comenzado el 4 de octubre y durante una",
+   "link": "https://elnuevocronista.com/sabado-de-cierre-para-el-vi-festival-internacional-de-teatro-independiente/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/teatro-1-web-768x512.jpg"
+  },
+  {
+   "id": 54269,
+   "fecha": "2026-10-10",
+   "titulo": "Dictarán un taller de saya y caporal",
+   "bajada": "La jornada “Encuentro y Danza” es impulsada por la comparsa “Que me lleve el carnaval” y se desarrollará el sábado 17 de octubre en el estudio Boulevard Dance • La propuesta abordará la técnica, el juego y la identidad de los ritmos latinoamericanos sin requerir experiencia previa.",
+   "link": "https://elnuevocronista.com/dictaran-un-taller-de-saya-y-caporal/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/saya-819x1024.jpg"
+  },
+  {
+   "id": 54247,
+   "fecha": "2026-10-10",
+   "titulo": "El Mes del Grabado comenzó con una gran convocatoria",
+   "bajada": "Con una importante participación de público, comenzó una nueva edición del Mes del Grabado, una propuesta que año tras año se consolida como parte de la agenda cultural mercedina • La iniciativa es impulsada por la Dirección de Cultura de la Municipalidad de Mercedes, el Movimiento Cultural El Limonero y el Museo de Arte de",
+   "link": "https://elnuevocronista.com/el-mes-del-grabado-comenzo-con-una-gran-convocatoria/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/grabado-1024x682.jpg"
+  },
+  {
+   "id": 54224,
+   "fecha": "2026-10-08",
+   "titulo": "La agrupación Cumbará organiza la jornada de candombe “Yacumenza” en La Trocha",
+   "bajada": "El encuentro se desarrollará este sábado 10 de octubre con espacios de formación y un toque colectivo abierto a la comunidad. Habrá talleres de danza y percusión dictados por referentes del género.",
+   "link": "https://elnuevocronista.com/la-agrupacion-cumbara-organiza-la-jornada-de-candombe-yacumenza-en-la-trocha/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2025/10/La-Trocha-768x553.jpg"
+  },
+  {
+   "id": 54199,
+   "fecha": "2026-10-08",
+   "titulo": "El Festival Internacional de Teatro se despliega en Mercedes con más de 600 espectadores",
+   "bajada": "La propuesta escénica reúne elencos de Argentina, Colombia, Chile, México y Estados Unidos con funciones en salas y barriadas locales • El organizador Fabián Morales destacó la respuesta del público y detalló la grilla que continuará hasta el fin de semana.",
+   "link": "https://elnuevocronista.com/el-festival-internacional-de-teatro-se-despliega-en-mercedes-con-mas-de-600-espectadores/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/Teatro-1-1024x683.jpg"
+  },
+  {
+   "id": 54187,
+   "fecha": "2026-10-07",
+   "titulo": "Convocan a un taller de materiales reciclables y al VII Certamen de Xilografía al aire libre",
+   "bajada": "Las iniciativas son organizadas por el Movimiento Cultural El Limonero junto a la Dirección de Cultura municipal • Ambas actividades son gratuitas y abiertas a la comunidad, requiriendo inscripción previa en el caso del taller práctico.",
+   "link": "https://elnuevocronista.com/convocan-a-un-taller-de-materiales-reciclables-y-al-vii-certamen-de-xilografia-al-aire-libre/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2025/11/Pulperia-2-1024x595.jpg"
+  },
+  {
+   "id": 54170,
+   "fecha": "2026-10-06",
+   "titulo": "Se viene la segunda fecha del Festival “Mercedes Canta 2026” con taller formativo y concierto de cierre en la Catedral",
+   "bajada": "La jornada musical se desarrollará este sábado 10 de octubre, organizada por la Asociación Civil Amigos de Ars Pulchra, e incluirá una instancia pedagógica dictada por la maestra Roxana Muñoz • El evento culminará con una presentación coral multitudinaria de entrada libre y gratuita en la Basílica Catedral.",
+   "link": "https://elnuevocronista.com/se-viene-la-segunda-fecha-del-festival-mercedes-canta-2026-con-taller-formativo-y-concierto-de-cierre-en-la-catedral/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2025/10/catedral-768x512.jpg"
+  },
+  {
+   "id": 54160,
+   "fecha": "2026-10-06",
+   "titulo": "Cine Mercedes renueva su pantalla con clásicos del cine, acción y terror",
+   "bajada": "Con una grilla variada que va desde la animación para toda la familia hasta el suspenso más intenso, la sala de calle 20 presenta sus proyecciones del viernes 9 al martes 13 de octubre.",
+   "link": "https://elnuevocronista.com/cine-mercedes-renueva-su-pantalla-con-clasicos-del-cine-accion-y-terror/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/cine.jpg"
+  },
+  {
+   "id": 54152,
+   "fecha": "2026-10-06",
+   "titulo": "El bandoneonista de la ciudad",
+   "bajada": "Empezó a tocar en su juventud y fue convocado para Tango Dos • Recorrió el mundo con el tango y ahora está entusiasmado con La Negracha • A pesar de ello está enfocado en nuevo proyecto llamado “El Nudo” Pedro Martini se presentó junto a La Negracha el viernes 18 de septiembre en Bistro",
+   "link": "https://elnuevocronista.com/el-bandoneonista-de-la-ciudad/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/martini1-web-768x641.jpg"
+  },
+  {
+   "id": 54108,
+   "fecha": "2026-10-05",
+   "titulo": "“Una familia bien mercedina” conquistó al público en el Teatro Argentino",
+   "bajada": "Con la obra del Taller de Teatro Municipal estrenó “Una familia como la tuya”, bajo la dirección de Fabián Morales, con localidades colmadas y una ovación de pie, se dio apertura al VI Festival Internacional de Teatro “Beba Mayo”. El intendente Juan Ustarroz felicitó al elenco, a su director y agradeció a la gran cantidad",
+   "link": "https://elnuevocronista.com/una-familia-bien-mercedina-conquisto-al-publico-en-el-teatro-argentino/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/morales-768x512.jpg"
+  },
+  {
+   "id": 54085,
+   "fecha": "2026-10-04",
+   "titulo": "El blues volvió a sonar en Mercedes",
+   "bajada": "El ciclo impulsado por la Comisión del Blues de Mercedes tuvo su jornada en el escenario local con una destacada convocatoria de público • La grilla artística combinó composiciones propias, clásicos del género y el debut de la agrupación lujanense en suelo mercedino.",
+   "link": "https://elnuevocronista.com/el-blues-volvio-a-sonar-en-mercedes/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/blues-e1791133646591-1024x789.jpg"
+  },
+  {
+   "id": 54068,
+   "fecha": "2026-10-04",
+   "titulo": "El “Mes del Grabado” suma dos exposiciones artísticas con entrada libre en El Limonero",
+   "bajada": "Las muestras presentan obras de Juan Sebastián Carnero y Diego Ismael Moyano en las sedes del espacio cultural de la calle 34. Las actividades son abiertas a la comunidad y cuentan con el acompañamiento de la Dirección de Cultura municipal.",
+   "link": "https://elnuevocronista.com/el-mes-del-grabado-suma-dos-exposiciones-artisticas-con-entrada-libre-en-el-limonero/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/02/Limonero-1024x768.jpg"
+  },
+  {
+   "id": 54024,
+   "fecha": "2026-10-02",
+   "titulo": "El VI Festival Internacional de Teatro llega a los barrios con funciones en el Virgen del Rosario",
+   "bajada": "La propuesta descentralizada ofrecerá dos veladas escénicas en las instalaciones del Centro de Jubilados “21 de Septiembre” • El encuentro forma parte de una semana que reunirá a compañías de seis países de América con más de 20 funciones en la ciudad.",
+   "link": "https://elnuevocronista.com/el-vi-festival-internacional-de-teatro-llega-a-los-barrios-con-funciones-en-el-virgen-del-rosario/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/teatro-1024x1024.jpg"
+  }
+ ],
+ "sociedad": [
+  {
+   "id": 54265,
+   "fecha": "2026-10-10",
+   "titulo": "Anuncian la tercera edición de “Prendiamo un caffè e parliamo”",
+   "bajada": "La propuesta organizada por las profesoras Analía Pérez y Marisa Lettieri suma una nueva fecha para la comunidad italoparlante local • Además, avanzan con la organización de un viaje cultural a Buenos Aires y proyectan una fiesta temática para fin de año.",
+   "link": "https://elnuevocronista.com/anuncian-la-tercera-edicion-de-prendiamo-un-caffe-e-parliamo/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/cafe-1-e1791674878909-1024x744.jpg"
+  },
+  {
+   "id": 54218,
+   "fecha": "2026-10-08",
+   "titulo": "Cuatro estudiantes mercedinos representaron a la ciudad en la etapa provincial de la Olimpíada Matemática",
+   "bajada": "Jóvenes de los institutos Misericordia, Ansaldo y la EEST N.º 1 compitieron en la final bonaerense desarrollada en Necochea. Tras atravesar con éxito cuatro instancias previas, los alumnos sumaron su primera experiencia en el certamen que organiza la OMA.",
+   "link": "https://elnuevocronista.com/cuatro-estudiantes-mercedinos-representaron-a-la-ciudad-en-la-etapa-provincial-de-la-olimpiada-matematica/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/olimpiadas-768x578.jpg"
+  },
+  {
+   "id": 54216,
+   "fecha": "2026-10-08",
+   "titulo": "Vecinos reclaman una tarifa bonificada para los mercedinos en el peaje de Olivera",
+   "bajada": "La comisión vecinal elevó una nota al Concejo Deliberante para que el Ejecutivo municipal renegocie beneficios con la concesionaria de la Ruta Nacional 5. Tomaron como base un antecedente local de 2004 y esquemas de descuento aplicados en otras trazas bonaerenses.",
+   "link": "https://elnuevocronista.com/vecinos-reclaman-una-tarifa-bonificada-para-los-mercedinos-en-el-peaje-de-olivera/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/07/peaje-1.jpg"
+  },
+  {
+   "id": 54205,
+   "fecha": "2026-10-08",
+   "titulo": "La Cooperadora del Hospital Dubarry financió el reacondicionamiento de mobiliario",
+   "bajada": "Las tareas incluyeron la reparación integral y tapicería de asientos en las áreas de Hemoterapia, Pediatría y Maternidad. La iniciativa busca optimizar el confort de pacientes y del personal de salud en los sectores de espera e internación.",
+   "link": "https://elnuevocronista.com/la-cooperadora-del-hospital-dubarry-financio-el-reacondicionamiento-de-mobiliario/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/cooperadora-768x768.jpg"
+  },
+  {
+   "id": 54172,
+   "fecha": "2026-10-06",
+   "titulo": "Alerta amarillo por tormentas",
+   "bajada": "El Servicio Meteorológico Nacional y Defensa Civil bonaerense informaron la formación de un sistema de baja presión que afectará al centro y norte de la provincia • Se prevén abundantes caídas de agua en cortos períodos, actividad eléctrica, ráfagas intensas y eventual caída de granizo.",
+   "link": "https://elnuevocronista.com/alerta-amarillo-por-tormentas/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2025/09/lluvias.jpg"
+  },
+  {
+   "id": 54098,
+   "fecha": "2026-10-05",
+   "titulo": "El parque municipal vivió otro encuentro cervecero",
+   "bajada": "Un evento autogestionado por la Comisión de Cerveceros Mercedinos • El mal clima del sábado no impidió que gran cantidad de público disfrute de la octava edición del encuentro. Gran cantidad de público nutrió durante todo el fin de semana el 8°Festival de Cerveceros Mercedinos. El encuentro volvió a generar trabajo, impulsando el arte",
+   "link": "https://elnuevocronista.com/el-parque-municipal-vivio-otro-encuentro-cervecero/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/cerveceros-768x452.jpg"
+  },
+  {
+   "id": 54079,
+   "fecha": "2026-10-04",
+   "titulo": "Anuncian la interrupción total de la línea Sarmiento durante cuatro días por obras",
+   "bajada": "La medida afectará al servicio eléctrico y a los ramales diésel obligando a los usuarios a reprogramar sus traslados • Los trabajos incluyen la renovación de vías, intervenciones pluviales e infraestructura en pasos bajo nivel.",
+   "link": "https://elnuevocronista.com/anuncian-la-interrupcion-total-de-la-linea-sarmiento-durante-cuatro-dias-por-obras/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/02/tren-1.jpg"
+  },
+  {
+   "id": 54077,
+   "fecha": "2026-10-04",
+   "titulo": "Avanzan los trabajos y colocan las pasarelas peatonales en la Ruta Nacional 5",
+   "bajada": "La empresa concesionaria montó la estructura principal del puente en el sector del barrio Los Molinos e intervino el cruce de la calle 11 • La obra responde a reclamos comunitarios por la peligrosidad de la calzada y entra en su etapa final de ejecución.",
+   "link": "https://elnuevocronista.com/avanzan-los-trabajos-y-colocan-las-pasarelas-peatonales-en-la-ruta-nacional-5/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/pasarelas-768x576.jpg"
+  },
+  {
+   "id": 54062,
+   "fecha": "2026-10-04",
+   "titulo": "Dandelion English School presentó su Quinta Muestra Anual de Teatro en la sala del Teatro Talía",
+   "bajada": "Los alumnos de la institución representaron piezas basadas en cuentos tradicionales ingleses ante un marco multitudinario de familias • La propuesta integra la enseñanza de la lengua anglosajona con metodologías artísticas y vivenciales para niños de 6 a 13 años.",
+   "link": "https://elnuevocronista.com/dandelion-english-school-presento-su-quinta-muestra-anual-de-teatro-en-la-sala-del-teatro-talia/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/Ingles-1024x576.jpg"
+  },
+  {
+   "id": 54027,
+   "fecha": "2026-10-02",
+   "titulo": "Jornada de Diversidad en la Unidad N° 5",
+   "bajada": "La actividad interinstitucional promovió el acceso a información, el respeto por las identidades y la ampliación de derechos en contexto de encierro • Participaron referentes del Pabellón Literario, el Patronato de Liberados y el dispositivo CoSaYDi de la Secretaría de Salud municipal.",
+   "link": "https://elnuevocronista.com/jornada-de-diversidad-en-la-unidad-n-5/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/unidad-5-1024x688.jpg"
+  },
+  {
+   "id": 54015,
+   "fecha": "2026-10-01",
+   "titulo": "Presentaron el sitio web en memoria del Padre Gabino Tabossi y ya se encuentra en funcionamiento",
+   "bajada": "La plataforma digital recopila el legado pastoral, homilías y registros fotográficos del sacerdote fallecido en 2024 • El homenaje fue destacado en Radio Fénix a través de una entrevista a su madre, Adriana Tabossi, realizada por la periodista Susana Spano, mientras que los realizadores aclararon que el portal se irá actualizando con nuevo material.",
+   "link": "https://elnuevocronista.com/presentaron-el-sitio-web-en-memoria-del-padre-gabino-tabossi-y-ya-se-encuentra-en-funcionamiento/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/tabossi-768x512.jpg"
+  },
+  {
+   "id": 53973,
+   "fecha": "2026-09-30",
+   "titulo": "Instalan dos pasarelas peatonales sobre la Ruta 5",
+   "bajada": "Las obras comenzaron este lunes y se extenderán durante 72 horas para colocar las estructuras en los kilómetros 84 y 101 • El operativo incluye cortes totales, circulación asistida por colectora y la presencia de personal de seguridad vial.",
+   "link": "https://elnuevocronista.com/instalan-dos-pasarelas-peatonales-sobre-la-ruta-5/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/pasarelas-768x432.jpg"
+  },
+  {
+   "id": 53967,
+   "fecha": "2026-09-30",
+   "titulo": "El Dr. Eduardo Ciampi presentó una nueva obra enfocada en la pericia judicial",
+   "bajada": "El Consejo Profesional de Ciencias Económicas albergó la exposición del texto técnico dedicado al desempeño profesional en los tribunales bonaerenses • La jornada formó parte de la agenda conmemorativa por los 80 años de la entidad mercedina.",
+   "link": "https://elnuevocronista.com/el-dr-eduardo-ciampi-presento-una-nueva-obra-enfocada-en-la-pericia-judicial/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/ciampi-768x530.jpg"
+  },
+  {
+   "id": 53958,
+   "fecha": "2026-09-30",
+   "titulo": "Dictarán un taller de agroecología sobre suelos y siembras",
+   "bajada": "La propuesta de formación abierta abordará el desarrollo sustentable y la producción consciente a cargo de especialistas en la materia • La jornada incluirá un espacio de intercambio de semillas entre los participantes.",
+   "link": "https://elnuevocronista.com/dictaran-un-taller-de-agroecologia-sobre-suelos-y-siembras/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/taller.jpg"
+  }
+ ],
+ "salud": [
+  {
+   "id": 54220,
+   "fecha": "2026-10-08",
+   "titulo": "El Hospital Dubarry fue sede de una jornada de formación sobre salud mental y abordajes hospitalarios",
+   "bajada": "La capacitación reunió a profesionales del sector para debatir sobre intervenciones interdisciplinarias, manejo de crisis y el cuidado del personal de salud. Durante el encuentro también se presentó un libro especializado sobre adolescentes.",
+   "link": "https://elnuevocronista.com/el-hospital-dubarry-fue-sede-de-una-jornada-de-formacion-sobre-salud-mental-y-abordajes-hospitalarios/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/salud-768x576.jpg"
+  },
+  {
+   "id": 54007,
+   "fecha": "2026-10-01",
+   "titulo": "Ponen en marcha las actividades de “Octubre Rosa” para la prevención del cáncer de mama",
+   "bajada": "La campaña promueve la detección temprana a través de la fe, el deporte, el acompañamiento familiar y la concientización general • El Municipio desplegará una agenda que abarca desde talleres artísticos y charlas informativas hasta caminatas y clases de zumba.",
+   "link": "https://elnuevocronista.com/ponen-en-marcha-las-actividades-de-octubre-rosa-para-la-prevencion-del-cancer-de-mama/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/Octubre-1024x683.jpg"
+  },
+  {
+   "id": 53805,
+   "fecha": "2026-09-25",
+   "titulo": "El Hospital Dubarry presentó un trabajo sobre memoria y reparación en la Expo Salud 2026",
+   "bajada": "La institución mercedina participó de la III Expo Salud 2026 y del Encuentro Científico Regional realizado en San Nicolás • Allí se expuso una investigación vinculada a las experiencias de víctimas del terrorismo de Estado y el papel de la escucha en los procesos de reparación.",
+   "link": "https://elnuevocronista.com/el-hospital-dubarry-presento-un-trabajo-sobre-memoria-y-reparacion-en-la-expo-salud-2026/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/Hospital-1-e1790376490311-1024x746.png"
+  },
+  {
+   "id": 53744,
+   "fecha": "2026-09-22",
+   "titulo": "Un bebé con bronquiolitis grave fue trasladado en vuelo sanitario desde el Hospital Dubarry",
+   "bajada": "El operativo permitió derivar a un paciente de cuatro meses a la Unidad de Terapia Intensiva Pediátrica del Hospital Posadas • La aeroevacuación fue coordinada entre equipos sanitarios, organismos de emergencia y fuerzas de seguridad.",
+   "link": "https://elnuevocronista.com/un-bebe-con-bronquiolitis-grave-fue-trasladado-en-vuelo-sanitario-desde-el-hospital-dubarry/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/traslado-1024x1024.jpg"
+  },
+  {
+   "id": 53529,
+   "fecha": "2026-09-15",
+   "titulo": "El Hospital Dubarry prepara una jornada especial de vacunación contra la Fiebre Hemorrágica",
+   "bajada": "El próximo jueves 24 de septiembre, el Vacunatorio del Hospital Blas L. Dubarry llevará adelante una campaña abierta destinada a personas de 15 a 65 años que habitan o trabajan en zonas rurales de la región endémica • La iniciativa busca prevenir el “mal de los rastrojos” con una única dosis de por vida.",
+   "link": "https://elnuevocronista.com/el-hospital-dubarry-prepara-una-jornada-especial-de-vacunacion-contra-la-fiebre-hemorragica/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/10/hospital-768x432.jpg"
+  },
+  {
+   "id": 53437,
+   "fecha": "2026-09-11",
+   "titulo": "Nueva edición de la capacitación en Ley Micaela para trabajadores de la salud",
+   "bajada": "El Ministerio de Salud de la Provincia de Buenos Aires abrió la inscripción para el curso obligatorio en perspectiva de género y violencias por razones de género, destinado a quienes se desempeñan en la función pública • La formación comenzará el 5 de octubre y se extenderá a lo largo del año con nuevas ediciones.",
+   "link": "https://elnuevocronista.com/nueva-edicion-de-la-capacitacion-en-ley-micaela-para-trabajadores-de-la-salud/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/micalea.jpg"
+  },
+  {
+   "id": 53405,
+   "fecha": "2026-09-09",
+   "titulo": "El Hospital Dubarry aprobó la autoevaluación de calidad y seguridad en salud",
+   "bajada": "La institución mercedina alcanzó un importante logro al validar sus buenas prácticas según los estándares del Ministerio de Salud de la Nación • El reconocimiento refleja el trabajo sostenido de todo el equipo hospitalario para fortalecer la atención y consolidar un hospital público de calidad.",
+   "link": "https://elnuevocronista.com/el-hospital-dubarry-aprobo-la-autoevaluacion-de-calidad-y-seguridad-en-salud/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/10/hospital-768x432.jpg"
+  },
+  {
+   "id": 53208,
+   "fecha": "2026-09-05",
+   "titulo": "El Hospital Dubarry fortaleció la articulación para la atención de salud sexual",
+   "bajada": "El Consultorio de Salud Sexual Integral realizó una jornada de trabajo con distintos servicios de la institución • Se revisaron experiencias y circuitos de atención para garantizar un acceso más integral y de calidad.",
+   "link": "https://elnuevocronista.com/el-hospital-dubarry-fortalecio-la-articulacion-para-la-atencion-de-salud-sexual/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/salud.jpg"
+  },
+  {
+   "id": 53196,
+   "fecha": "2026-09-05",
+   "titulo": "El Vacunatorio del Dubarry realizó un operativo en la Escuela Rural Nº 24 de Tomás Jofré",
+   "bajada": "Se revisaron las libretas sanitarias de estudiantes, docentes y personal, aplicando las dosis necesarias para actualizar los esquemas de vacunación • La jornada refuerza la estrategia de acercar la salud a cada comunidad.",
+   "link": "https://elnuevocronista.com/el-vacunatorio-del-dubarry-realizo-un-operativo-en-la-escuela-rural-n-o-24-de-tomas-jofre/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/vacunas.jpg"
+  },
+  {
+   "id": 53141,
+   "fecha": "2026-09-02",
+   "titulo": "Nuevo retinógrafo en el Hospital Dubarry",
+   "bajada": "El servicio de Oftalmología incorporó un equipo de última generación • La tecnología agiliza estudios y mejora la precisión en el diagnóstico visual.",
+   "link": "https://elnuevocronista.com/nuevo-retinografo-en-el-hospital-dubarry/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/oftalmologia-1024x768.jpg"
+  },
+  {
+   "id": 52873,
+   "fecha": "2026-08-23",
+   "titulo": "Despedida de residentes 2026 en el Hospital",
+   "bajada": "En un emotivo acto, el hospital reconoció a los profesionales que culminaron su residencia, destacando su compromiso con la salud pública y la formación académica.",
+   "link": "https://elnuevocronista.com/despedida-de-residentes-2026-en-el-hospital/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/08/Residentes-1024x768.jpg"
+  },
+  {
+   "id": 52871,
+   "fecha": "2026-08-23",
+   "titulo": "Jornada de testeos rápidos de VIH y sífilis en el barrio Mutti",
+   "bajada": "El Hospital Blas L. Dubarry, junto al Municipio de Mercedes, realizó una jornada territorial en el Centro Comunitario Néstor Kirchner para acercar la prevención y el diagnóstico temprano a la comunidad.",
+   "link": "https://elnuevocronista.com/jornada-de-testeos-rapidos-de-vih-y-sifilis-en-el-barrio-mutti/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/08/HIV-1024x768.jpg"
+  },
+  {
+   "id": 52861,
+   "fecha": "2026-08-23",
+   "titulo": "Tecnicatura Superior en Hemoterapia en Mercedes",
+   "bajada": "Se llevó a cabo el acto de apertura de la nueva cohorte de la Tecnicatura Superior en Tecnología en Salud con especialidad en Hemoterapia • La propuesta llega para dar respuesta a una demanda estratégica del sistema sanitario local y regional.",
+   "link": "https://elnuevocronista.com/tecnicatura-superior-en-hemoterapia-en-mercedes/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/08/Hemoterapia-1024x682.jpg"
+  },
+  {
+   "id": 52815,
+   "fecha": "2026-08-21",
+   "titulo": "Jornada especial de vacunación contra la Fiebre Hemorrágica Argentina",
+   "bajada": "El Hospital Blas L. Dubarry convoca a la comunidad a participar de una campaña abierta y gratuita contra el “mal de los rastrojos”, destinada a personas de 15 a 65 años que habitan o trabajan en zonas rurales de la región endémica.",
+   "link": "https://elnuevocronista.com/jornada-especial-de-vacunacion-contra-la-fiebre-hemorragica-argentina/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2024/10/hospital-768x432.jpg"
+  }
+ ],
+ "provinciales": [
+  {
+   "id": 54184,
+   "fecha": "2026-10-07",
+   "titulo": "Vuelve la Diplomatura en Promoción en Ambientalismo Popular de la Provincia y la UNLP",
+   "bajada": "Se trata de una propuesta de formación académica gratuita y virtual que busca fortalecer la producción de conocimiento y las herramientas de intervención frente a las problemáticas ambientales de los territorios bonaerenses.",
+   "link": "https://elnuevocronista.com/vuelve-la-diplomatura-en-promocion-en-ambientalismo-popular-de-la-provincia-y-la-unlp/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/unnamed-819x1024.png"
+  },
+  {
+   "id": 54157,
+   "fecha": "2026-10-06",
+   "titulo": "La Defensoría del Pueblo denunció penalmente al hombre que disparó contra carpinchos en Nordelta",
+   "bajada": "La Defensoría del Pueblo de la provincia de Buenos Aires, organismo a cargo de Guido Lorenzino, presentó una denuncia penal por el episodio ocurrido en Nordelta en el que un hombre fue filmado mientras efectuaba disparos contra carpinchos.",
+   "link": "https://elnuevocronista.com/la-defensoria-del-pueblo-denuncio-penalmente-al-hombre-que-disparo-contra-carpinchos-en-nordelta/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/defensoria-1.jpg"
+  },
+  {
+   "id": 54071,
+   "fecha": "2026-10-04",
+   "titulo": "Kicillof encabezó un encuentro con la cúpula de Martilleros BA",
+   "bajada": "Durante la reunión en la Casa de Gobierno bonaerense se analizó la puesta en marcha de la “Cuenta Recaudadora” y la propuesta de Alquiler Social. El mercedino Luis Colao formó parte de la delegación del Colegio de Martilleros provincial que presentó además un estudio sectorial junto a la UNNOBA.",
+   "link": "https://elnuevocronista.com/kicillof-encabezo-un-encuentro-con-la-cupula-de-martilleros-ba/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/10/martilleros-768x576.jpg"
+  },
+  {
+   "id": 53872,
+   "fecha": "2026-09-27",
+   "titulo": "Martilleros proponen un Régimen de Alquiler Social",
+   "bajada": "El Consejo Directivo de la entidad bonaerense presentó el proyecto al diputado Héctor Eslaiman para su tratamiento en la Legislatura • La medida busca reducir drásticamente los gastos de ingreso para inquilinos de menores recursos mediante exenciones impositivas y costo cero en honorarios.",
+   "link": "https://elnuevocronista.com/martilleros-proponen-un-regimen-de-alquiler-social/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/Martilleros-1024x556.jpg"
+  },
+  {
+   "id": 53763,
+   "fecha": "2026-09-23",
+   "titulo": "Suipacha Gourmet: un encuentro para celebrar los sabores de la región",
+   "bajada": "El evento gastronómico se realizará el 10 y 11 de octubre en Suipacha y reunirá productores, chefs, masterclasses, maridajes, música y propuestas para toda la familia.",
+   "link": "https://elnuevocronista.com/suipacha-gourmet-un-encuentro-para-celebrar-los-sabores-de-la-region/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/suipacha-2-1024x683.jpg"
+  },
+  {
+   "id": 53351,
+   "fecha": "2026-09-08",
+   "titulo": "La Defensoría ofrece asesoramiento para la refinanciación de deudas",
+   "bajada": "La Defensoría del Pueblo bonaerense puso en marcha un servicio destinado a acompañar y brindar asesoramiento a las personas que necesitan refinanciar deudas derivadas de préstamos personales o tarjetas de crédito.",
+   "link": "https://elnuevocronista.com/la-defensoria-ofrece-asesoramiento-para-la-refinanciacion-de-deudas/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/defensoria-1.jpg"
+  },
+  {
+   "id": 53262,
+   "fecha": "2026-09-06",
+   "titulo": "Proyecto de ley busca que la Defensoría acompañe a las personas sobreendeudadas en la Provincia",
+   "bajada": "La iniciativa presentada por el diputado Facundo Tignanelli propone crear un régimen provincial de prevención y tratamiento del sobreendeudamiento de consumidores • El organismo que conduce Guido Lorenzino tendría un rol central en la negociación colectiva y en la protección de los bonaerenses frente a abusos financieros.",
+   "link": "https://elnuevocronista.com/proyecto-de-ley-busca-que-la-defensoria-acompane-a-las-personas-sobreendeudadas-en-la-provincia/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/defensoria-1024x683.jpg"
+  },
+  {
+   "id": 53201,
+   "fecha": "2026-09-05",
+   "titulo": "La Provincia prorrogó por 120 días las licencias profesionales de conducir",
+   "bajada": "La medida alcanza a las categorías C, D y E cuyo vencimiento se produzca entre el 1° de julio y el 31 de octubre de 2026 • La extensión busca evitar perjuicios mientras se ajusta el nuevo sistema de renovación.",
+   "link": "https://elnuevocronista.com/la-provincia-prorrogo-por-120-dias-las-licencias-profesionales-de-conducir/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/liciencias-1024x576.jpg"
+  },
+  {
+   "id": 53147,
+   "fecha": "2026-09-02",
+   "titulo": "Suipacha celebra la primera Fiesta Nacional de la Mermelada",
+   "bajada": "El evento se realizará el 5 y 6 de septiembre en la Plaza Brown • Habrá paseo de artesanos, patio gastronómico, espectáculos y charlas de productores.",
+   "link": "https://elnuevocronista.com/suipacha-celebra-la-primera-fiesta-nacional-de-la-mermelada/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/mermelada-768x576.jpg"
+  },
+  {
+   "id": 53143,
+   "fecha": "2026-09-02",
+   "titulo": "Diarco cerró su sucursal de Jáuregui",
+   "bajada": "La cadena mayorista dejó de funcionar en el kilómetro 72 de la vieja ruta 5 • La caída del consumo y el aumento de costos golpean al sector y se pierden unos 30 puestos de trabajo.",
+   "link": "https://elnuevocronista.com/diarco-cerro-su-sucursal-de-jauregui/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/09/diarco.jpg"
+  },
+  {
+   "id": 52773,
+   "fecha": "2026-08-19",
+   "titulo": "Obras sobre el río en el Parque Independencia",
+   "bajada": "El Gobierno bonaerense convocó a una instancia de participación ciudadana para presentar el proyecto de paseo y control de inundaciones en el Parque Municipal • La obra, con financiamiento internacional, prevé mejoras hidráulicas, urbanas y ambientales.",
+   "link": "https://elnuevocronista.com/obras-sobre-el-rio-en-el-parque-independencia/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/01/Rio-1024x768.jpg"
+  },
+  {
+   "id": 52769,
+   "fecha": "2026-08-19",
+   "titulo": "Nuevos sistemas para fiscalizar el tránsito en ruta",
+   "bajada": "El Gobierno bonaerense autorizó la incorporación de dispositivos digitales para registrar infracciones de manera automática • Las herramientas permitirán fortalecer el control en tiempo real en distintos puntos de la red vial provincial.",
+   "link": "https://elnuevocronista.com/nuevos-sistemas-para-fiscalizar-el-transito-en-ruta/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/08/ruta-1024x576.jpg"
+  },
+  {
+   "id": 52527,
+   "fecha": "2026-08-11",
+   "titulo": "El Ministerio de Ambiente de la Provincia y la UNSAM lanzan curso de gestión de residuos para municipios",
+   "bajada": "El Ministerio de Ambiente de la Provincia de Buenos Aires, junto a la Universidad Nacional de San Martín (UNSAM), impulsa un nuevo Curso de Planificación en Gestión Integral de Residuos Sólidos Urbanos para Gobiernos Locales, destinado a fortalecer las capacidades técnicas de los municipios bonaerenses y brindar herramientas para abordar las problemáticas socioambientales desde una",
+   "link": "https://elnuevocronista.com/el-ministerio-de-ambiente-de-la-provincia-y-la-unsam-lanzan-curso-de-gestion-de-residuos-para-municipios/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/08/Residuos-1024x682.png"
+  },
+  {
+   "id": 52395,
+   "fecha": "2026-08-06",
+   "titulo": "La Provincia prorrogó la suspensión del MESA",
+   "bajada": "El Gobierno bonaerense decidió extender hasta enero de 2027 la suspensión del programa alimentario extraordinario y concentrar la ayuda en el SAE • Legisladores de La Libertad Avanza cuestionaron la medida.",
+   "link": "https://elnuevocronista.com/la-provincia-prorrogo-la-suspension-del-mesa/",
+   "img": "https://elnuevocronista.com/wp-content/uploads/2026/08/Mesa-768x459.jpg"
+  }
+ ]
+}

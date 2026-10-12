@@ -154,6 +154,17 @@ h1,h2,h3,h4{margin:0;font-family:var(--cond);font-weight:800;line-height:1.08;le
   margin:0 0 24px;padding:0 0 24px;border-bottom:1px solid var(--filete)}
 .dep-top h3{font-size:30px;margin-top:4px}
 
+/* v2 (mas noticias): segunda fila de tarjetas y titulares sin foto a dos columnas.
+   Los titulares de texto suman notas sin sumar peso ni demasiado alto. */
+.g-4.fila{margin-top:24px;padding-top:22px;border-top:1px solid var(--filete)}
+.titulares{list-style:none;margin:20px 0 0;padding:14px 0 0;border-top:1px solid var(--filete);
+  display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 28px}
+.titulares li{position:relative;min-width:0;padding:9px 0 9px 17px;border-bottom:1px dotted var(--filete)}
+.titulares li::before{content:"";position:absolute;left:0;top:17px;width:7px;height:7px;background:var(--rojo)}
+.titulares a{font-family:var(--cond);font-size:18px;font-weight:700;line-height:1.2}
+.titulares a:hover{color:var(--rojo-osc)}
+.titulares span{display:block;margin-top:3px;font-family:var(--cond);font-size:13.5px;color:var(--gris-cl)}
+
 /* ---------------------------------------------------------------- lateral --- */
 .modulo{background:var(--hueso);padding:20px;margin:0 0 26px}
 .modulo__t{font-family:var(--cond);font-size:20px;font-weight:800;text-transform:uppercase;
@@ -254,6 +265,8 @@ h1,h2,h3,h4{margin:0;font-family:var(--cond);font-weight:800;line-height:1.08;le
   .g-4{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
   .g-4 h3{font-size:17px}
   .lista .nota{grid-template-columns:104px minmax(0,1fr)}
+  .titulares{grid-template-columns:minmax(0,1fr)}
+  .titulares a{font-size:17px}
   .lateral{grid-template-columns:minmax(0,1fr)}
   /* avisos verticales de a dos: la mitad de alto que hoy */
   .lat-avisos{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
